@@ -38,11 +38,6 @@ Line items of each order: which product, quantity, price, etc.
 - Each **Order** can have multiple **OrderItems**.
 - Each **OrderItem** is linked to one **Product**.
 - Each **Product** belongs to one **Category**.
-
-### ER Diagram View:
-
-![E-Commerce ER Diagram]("e_commerce_ER.png")
-
 ---
 
 ##  Tools Used
